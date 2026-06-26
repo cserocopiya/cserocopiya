@@ -6,6 +6,12 @@ Welcome to my github profile! <br>
 </h1>
 </div>
 
+<div align="center">
+<h2>
+Meow :3 <br>
+</h2>
+</div>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/cserocopiya/cserocopiya/refs/heads/main/profile.png" style="border-radius: 30px;">
 </p>
